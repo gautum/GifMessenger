@@ -1,1 +1,2 @@
-# Basic Web Messenger app a la GroupMe, working on making a GIF only messenger app using chrome 
+# Basic Web Messenger app a la GroupMe
+Working on making a GIF only messenger app using webcam API access on chrome
